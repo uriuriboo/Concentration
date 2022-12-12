@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"se.t1865192.card","h":"","u":""},{"l":"se.t1865192.card.entity","h":"","u":""},{"l":"se.t1865192.card.game","h":"","u":""},{"l":"se.t1865192.card.test","h":"","u":""},{"l":"se.t1865192.card.util","h":"","u":""},{"l":"すべてのパッケージ","h":"","u":"allpackages-index.html"}]
